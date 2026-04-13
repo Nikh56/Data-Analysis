@@ -118,7 +118,7 @@ pip install pandas matplotlib seaborn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/zomato-eda.git
+   https://github.com/Nikh56/Data-Analysis.git
    cd zomato-eda
    ```
 
